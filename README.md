@@ -8,8 +8,8 @@ GrapHunt automates the process of:
 - Computing network centrality metrics to identify critical C2 infrastructure nodes
 - Generating interactive dashboards and heatmaps for threat analysis
 - Scoring and ranking suspicious nodes by their importance in the C2 network
-- 
-<img width="1309" height="639" alt="image" src="https://github.com/user-attachments/assets/ece02a61-5265-4867-bd6c-3c9b34833077" />
+
+![gh_2](https://github.com/user-attachments/assets/fcfbb00a-a0d7-44bc-a4ed-ba662b8ec98a)
 
 ## 📋 Project Description
 
