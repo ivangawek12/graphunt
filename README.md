@@ -9,7 +9,6 @@ GrapHunt automates the process of:
 - Generating interactive dashboards and heatmaps for threat analysis
 - Scoring and ranking suspicious nodes by their importance in the C2 network
 
-<img width="1366" height="720" alt="GrapHunt Dashboard y 4 páginas más - Personal_ Microsoft​ Edge 30_01_2026 10_58_01" src="https://github.com/user-attachments/assets/a92be085-3864-4838-9541-2b8df9100477" />
 ![gh_1](https://github.com/user-attachments/assets/c91df72a-d2ab-4873-8819-3f6fc04bafa3)
 ![gh_2](https://github.com/user-attachments/assets/fcfbb00a-a0d7-44bc-a4ed-ba662b8ec98a)
 
